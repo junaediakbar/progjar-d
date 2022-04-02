@@ -1,4 +1,4 @@
-# Repository untu Mata Kuliah Pemrograman Jaringan
+# Repository untuk Mata Kuliah Pemrograman Jaringan
 ### Nama : Junaedi Akbar 
 ### Nrp : 05111940000041
 
