@@ -3,4 +3,4 @@
 ### Nrp : 0511194000041
 
 ## Evaluasi Tengah Semester 2022
-kesini 
+<a href="https://github.com/junaediakbar/progjar-d/edit/ets"> ke sini!</a>
