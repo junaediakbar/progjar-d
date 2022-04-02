@@ -33,11 +33,6 @@ alldata['22']=dict(nomor=22, nama="Ross Barkley", posisi="central midfielder")
 alldata['23']=dict(nomor=23, nama="Saul Niguez", posisi="central midfielder")
 alldata['24']=dict(nomor=24, nama="Kai Havertz", posisi="attacking midfielder")
 alldata['25']=dict(nomor=25, nama="Luis Diaz", posisi="attacking midfielder")
-alldata['26']=dict(nomor=26, nama="Petr Cech", posisi="goalkeeper")
-alldata['27']=dict(nomor=27, nama="Thibaut Courtois", posisi="goalkeeper")
-alldata['28']=dict(nomor=28, nama="Steven Gerrard", posisi="central midfielder")
-alldata['29']=dict(nomor=29, nama="Diogo Jota", posisi="forwarder attacker")
-alldata['30']=dict(nomor=30, nama="Roberto Firmino", posisi="attacking midfielder")
 
 def versi():
     return "versi 0.0.1"
