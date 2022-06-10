@@ -1,0 +1,48 @@
+This is ApacheBench, Version 2.3 <$Revision: 1843412 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 172.16.16.101 (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        myserver/1.0
+Server Hostname:        172.16.16.101
+Server Port:            8889
+
+Document Path:          /pokijan.jpg
+Document Length:        15706 bytes
+
+Concurrency Level:      1
+Time taken for tests:   702.165 seconds
+Complete requests:      500
+Failed requests:        0
+Total transferred:      7923000 bytes
+HTML transferred:       7853000 bytes
+Requests per second:    0.71 [#/sec] (mean)
+Time per request:       1404.330 [ms] (mean)
+Time per request:       1404.330 [ms] (mean, across all concurrent requests)
+Transfer rate:          11.02 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:   361 1404 554.4   1311    5326
+Waiting:      355 1360 543.3   1280    5190
+Total:        361 1404 554.5   1312    5326
+
+Percentage of the requests served within a certain time (ms)
+  50%   1312
+  66%   1542
+  75%   1694
+  80%   1795
+  90%   2112
+  95%   2396
+  98%   2717
+  99%   3080
+ 100%   5326 (longest request)
